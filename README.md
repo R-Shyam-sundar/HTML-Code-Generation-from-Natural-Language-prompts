@@ -19,6 +19,7 @@ API Notebook:  https://colab.research.google.com/drive/14NecwLL5ro1tzdrKJR-cTgTB
 Streamlit Frontent - streamlit_frontend.py
 
 # Training Loss
+https://github.com/R-Shyam-sundar/HTML-Code-Generation-from-Natural-Language-prompts/blob/c2b035d6fa85c878697f8c37b17acf3c515fe3b4/images/W%26B%20Chart%2022_12_2023%2C%2021_00_55.png
 
-
+<img width="2608" alt="Fine Tuning" src="[https://github.com/NisaarAgharia/Indian-LawyerGPT/assets/22457544/d08c4d51-0e5e-4cff-9fec-7d7a53959143](https://github.com/R-Shyam-sundar/HTML-Code-Generation-from-Natural-Language-prompts/blob/c2b035d6fa85c878697f8c37b17acf3c515fe3b4/images/W%26B%20Chart%2022_12_2023%2C%2021_00_55.png)https://github.com/R-Shyam-sundar/HTML-Code-Generation-from-Natural-Language-prompts/blob/c2b035d6fa85c878697f8c37b17acf3c515fe3b4/images/W%26B%20Chart%2022_12_2023%2C%2021_00_55.png">
 # Running Streamlit Frontend
