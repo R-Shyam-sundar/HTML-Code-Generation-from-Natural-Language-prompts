@@ -20,6 +20,6 @@ Streamlit Frontent - streamlit_frontend.py
 
 # Training Loss
 
-![Alt Text](.images/W&B Chart 22_12_2023, 21_00_55.png)
+![W B Chart 22_12_2023, 21_00_55](https://github.com/R-Shyam-sundar/HTML-Code-Generation-from-Natural-Language-prompts/assets/82640234/102baec6-fc33-4f24-8574-9de26f76be39)
 
 # Running Streamlit Frontend
