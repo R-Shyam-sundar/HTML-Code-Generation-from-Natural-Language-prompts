@@ -23,3 +23,9 @@ Streamlit Frontent - streamlit_frontend.py
 ![W B Chart 22_12_2023, 21_00_55](https://github.com/R-Shyam-sundar/HTML-Code-Generation-from-Natural-Language-prompts/assets/82640234/102baec6-fc33-4f24-8574-9de26f76be39)
 
 # Running Streamlit Frontend
+
+1. Run the FastAPI_+_Uvicorn.ipynb notebook, and recieve the deployed public link.
+2. Update the public link in streamlit_frontend.py
+3. streamlit run streamlit_frontend.py
+
+4. ![Screenshot from 2023-12-23 12-34-26](https://github.com/R-Shyam-sundar/HTML-Code-Generation-from-Natural-Language-prompts/assets/82640234/944f5013-3c0d-4579-bbc7-9345b50518e5)
